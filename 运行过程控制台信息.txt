@@ -1,0 +1,441 @@
+(HTNet) PS E:\myNotes\研究方向\github代码\HTNet> python .\main_HTNet.py --train True
+lr=0.000050, epochs=800, device=cuda
+442
+['006', '007', '009', '010', '011', '012', '013', '014', '015', '016', '017', '018', '019', '020', '021', '022', '023', '024', '026', '028', '030', '031', '032', '033', '034', '035', '036', '037', 's01', 's02', 's03', 's04', 's05', 's06', 's08', 's09', 's11', 's12', 's13', 's14', 's15', 's18', 's19', 's20', 'sub01', 'sub02', 'sub03', 'sub04', 'sub05', 'sub06', 'sub07', 'sub08', 'sub09', 'sub11', 'sub12', 'sub13', 'sub14', 'sub15', 'sub16', 'sub17', 'sub19', 'sub20', 'sub21', 'sub22', 'sub23', 'sub24', 'sub25', 'sub26']
+Subject: 006
+train
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2]
+Evaluation until this subject:
+best UF1: 1.0 | best UAR: 1.0
+Subject: 007
+train
+Best Predicted    : [0, 1, 1, 1, 1, 1, 1, 1]
+Ground Truth : [0, 1, 1, 1, 1, 1, 2, 2]
+Evaluation until this subject:
+best UF1: 0.8333 | best UAR: 0.8333
+Subject: 009
+train
+Best Predicted    : [0, 0, 0, 1]
+Ground Truth : [0, 0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.7802 | best UAR: 0.8
+Subject: 010
+train
+Best Predicted    : [0, 0, 0, 0]
+Ground Truth : [0, 0, 0, 0]
+Evaluation until this subject:
+best UF1: 0.7802 | best UAR: 0.8
+Subject: 011
+train
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1]
+Evaluation until this subject:
+best UF1: 0.7273 | best UAR: 0.6944
+Subject: 012
+train
+Best Predicted    : [0, 0, 2]
+Ground Truth : [0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.7607 | best UAR: 0.7292
+Subject: 013
+train
+Best Predicted    : [0, 0, 0, 0, 0, 0]
+Ground Truth : [0, 0, 0, 0, 0, 0]
+Evaluation until this subject:
+best UF1: 0.7647 | best UAR: 0.7325
+Subject: 014
+train
+Best Predicted    : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Ground Truth : [0, 0, 1, 1, 1, 1, 1, 1, 1, 2]
+Evaluation until this subject:
+best UF1: 0.7519 | best UAR: 0.7236
+Subject: 015
+train
+Best Predicted    : [2, 0, 2]
+Ground Truth : [0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.754 | best UAR: 0.741
+Subject: 016
+train
+Best Predicted    : [0, 0, 1, 2, 2]
+Ground Truth : [0, 0, 1, 2, 2]
+Evaluation until this subject: 
+Subject: 016
+train
+Best Predicted    : [0, 0, 1, 2, 2]
+Ground Truth : [0, 0, 1, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7895 | best UAR: 0.7788
+Subject: 017
+train
+Best Predicted    : [0, 0, 0, 0]
+Ground Truth : [0, 0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.7751 | best UAR: 0.763
+Subject: 018
+train
+Best Predicted    : [0, 0, 2]
+Ground Truth : [0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.7876 | best UAR: 0.7771
+Subject: 019
+train
+Best Predicted    : [1]
+Ground Truth : [1]
+Evaluation until this subject:
+best UF1: 0.7911 | best UAR: 0.7795
+Subject: 020
+train
+Best Predicted    : [0, 0, 1, 2]
+Ground Truth : [0, 0, 1, 1]
+Evaluation until this subject:
+best UF1: 0.7792 | best UAR: 0.7705
+Subject: 021
+train
+Best Predicted    : [0, 0]
+Ground Truth : [0, 0]
+Evaluation until this subject:
+best UF1: 0.7803 | best UAR: 0.7717
+Subject: 022
+train
+Best Predicted    : [0, 0, 0, 1, 1]
+Ground Truth : [0, 0, 0, 1, 1]
+Evaluation until this subject:
+best UF1: 0.7878 | best UAR: 0.778
+Subject: 023
+train
+Best Predicted    : [0]
+Ground Truth : [0]
+Evaluation until this subject:
+best UF1: 0.7883 | best UAR: 0.7785
+Subject: 024
+train
+Best Predicted    : [0]
+Ground Truth : [0]
+Evaluation until this subject:
+best UF1: 0.7887 | best UAR: 0.779
+Subject: 026
+train
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0]
+Evaluation until this subject:
+best UF1: 0.7923 | best UAR: 0.7829
+Subject: 028
+train
+Best Predicted    : [0, 2, 2]
+Ground Truth : [0, 2, 2]
+Evaluation until this subject:
+best UF1: 0.8104 | best UAR: 0.8031
+Subject: 030
+train
+Best Predicted    : [0, 0, 0]
+Ground Truth : [0, 0, 0]
+Evaluation until this subject:
+best UF1: 0.8113 | best UAR: 0.8041
+Subject: 031
+train
+Best Predicted    : [0]
+Ground Truth : [0]
+Evaluation until this subject:
+best UF1: 0.8116 | best UAR: 0.8045
+Subject: 032
+train
+Best Predicted    : [0, 0, 0, 0]
+Ground Truth : [0, 0, 0, 0]
+Evaluation until this subject:
+best UF1: 0.8127 | best UAR: 0.8057
+Subject: 033
+train
+Best Predicted    : [0, 0, 0, 0, 2]
+Ground Truth : [0, 0, 0, 0, 1]
+Evaluation until this subject:
+best UF1: 0.7998 | best UAR: 0.796
+Subject: 034
+train
+Best Predicted    : [0, 0, 0]
+Ground Truth : [0, 0, 0]
+Evaluation until this subject:
+best UF1: 0.8005 | best UAR: 0.7968
+Subject: 035
+train
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 2]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.8092 | best UAR: 0.8063
+Subject: 036
+train
+Best Predicted    : [0]
+Ground Truth : [0]
+Evaluation until this subject:
+best UF1: 0.8094 | best UAR: 0.8065
+Subject: 037
+train
+Best Predicted    : [0]
+Ground Truth : [0]
+Evaluation until this subject:
+best UF1: 0.8096 | best UAR: 0.8067
+Subject: s01
+train
+Best Predicted    : [0, 0, 0, 0, 1, 1]
+Ground Truth : [0, 0, 0, 1, 1, 2]
+Evaluation until this subject:
+best UF1: 0.7943 | best UAR: 0.786
+Subject: s02
+train
+Best Predicted    : [1, 2, 2, 2, 2, 2]
+Ground Truth : [1, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.8236 | best UAR: 0.8183
+Subject: s03
+train
+Best Predicted    : [1, 0, 2, 0, 0, 0, 0, 2, 1, 1, 0, 0, 0, 0, 2, 2, 1, 1, 2, 2, 0, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 0, 1, 2, 2]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7723 | best UAR: 0.7945
+Subject: s04
+train
+Best Predicted    : [0, 2, 2, 0, 0, 0, 2, 0, 0, 0, 2, 2, 0, 2, 2, 2, 2, 0, 2]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7473 | best UAR: 0.7704
+Subject: s05
+train
+Best Predicted    : [0, 0]
+Ground Truth : [0, 2]
+Evaluation until this subject:
+best UF1: 0.7434 | best UAR: 0.7636
+Subject: s06
+train
+Best Predicted    : [0, 0, 2, 0]
+Ground Truth : [0, 0, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7432 | best UAR: 0.7606
+Subject: s08
+train
+Best Predicted    : [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 1]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+Evaluation until this subject:
+best UF1: 0.7374 | best UAR: 0.7546
+Subject: s09
+train
+Best Predicted    : [0, 2, 2, 2]
+Ground Truth : [1, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.743 | best UAR: 0.7579
+Subject: s11
+train
+Best Predicted    : [0, 0, 0, 1, 1, 1, 2]
+Ground Truth : [0, 0, 0, 1, 1, 1, 2]
+Evaluation until this subject:
+best UF1: 0.7523 | best UAR: 0.7669
+Subject: s12
+train
+Best Predicted    : [1, 1, 1, 1, 1, 1, 1, 1, 2]
+Ground Truth : [1, 1, 1, 1, 1, 1, 1, 1, 2]
+Evaluation until this subject:
+best UF1: 0.7675 | best UAR: 0.7813
+Subject: s13
+train
+Best Predicted    : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Ground Truth : [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+Evaluation until this subject:
+best UF1: 0.7792 | best UAR: 0.7924
+Subject: s14
+train
+Best Predicted    : [0, 0, 0, 1, 0, 2, 2, 2, 2, 2]
+Ground Truth : [0, 0, 0, 1, 1, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7895 | best UAR: 0.8008
+Subject: s15
+train
+Best Predicted    : [0, 0, 0, 2]
+Ground Truth : [0, 1, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7856 | best UAR: 0.7939
+Subject: s18
+train
+Best Predicted    : [0, 0, 2, 2, 2, 2, 2]
+Ground Truth : [0, 0, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7951 | best UAR: 0.8027
+Subject: s19
+train
+Best Predicted    : [1, 2]
+Ground Truth : [1, 2]
+Evaluation until this subject:
+best UF1: 0.7977 | best UAR: 0.8052
+Subject: s20
+train
+Best Predicted    : [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 2, 0, 2, 2]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7967 | best UAR: 0.8021
+Subject: sub01
+train
+Best Predicted    : [0, 0, 1]
+Ground Truth : [0, 0, 1]
+Evaluation until this subject:
+best UF1: 0.7982 | best UAR: 0.8036
+Subject: sub02
+train
+Best Predicted    : [0, 0, 0, 0, 0, 2, 2, 2, 2]
+Ground Truth : [0, 0, 0, 0, 0, 1, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.7998 | best UAR: 0.8054
+Subject: sub03
+train
+Best Predicted    : [0, 0, 0, 0, 2]
+Ground Truth : [0, 0, 0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.802 | best UAR: 0.8075
+Subject: sub04
+train
+Best Predicted    : [0, 0]
+Ground Truth : [0, 0]
+Evaluation until this subject:
+best UF1: 0.8025 | best UAR: 0.808
+Subject: sub05
+train
+Best Predicted    : [1, 2, 2, 2, 2, 2]
+Ground Truth : [1, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.8093 | best UAR: 0.8143
+Subject: sub06
+train
+Best Predicted    : [0, 1, 2, 2]
+Ground Truth : [0, 1, 2, 2]
+Evaluation until this subject:
+best UF1: 0.8126 | best UAR: 0.8173
+Subject: sub07
+train
+Best Predicted    : [0, 0, 0, 0, 0]
+Ground Truth : [0, 0, 0, 0, 0]
+Evaluation until this subject:
+best UF1: 0.8137 | best UAR: 0.8185
+Subject: sub08
+train
+Best Predicted    : [0]
+Ground Truth : [0]
+Evaluation until this subject:
+best UF1: 0.8139 | best UAR: 0.8187
+Subject: sub09
+train
+Best Predicted    : [0, 0, 0, 0, 0, 1, 1, 1, 0, 1]
+Ground Truth : [0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+Evaluation until this subject:
+best UF1: 0.8161 | best UAR: 0.8205
+Subject: sub11
+train
+Best Predicted    : [0, 0, 0, 0]
+Ground Truth : [0, 0, 0, 0]
+Evaluation until this subject:
+best UF1: 0.8169 | best UAR: 0.8213
+Subject: sub12
+train
+Best Predicted    : [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]
+Ground Truth : [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.8234 | best UAR: 0.8275
+Subject: sub13
+train
+Best Predicted    : [1, 1]
+Ground Truth : [1, 1]
+Evaluation until this subject:
+best UF1: 0.825 | best UAR: 0.8292
+Subject: sub14
+train
+Best Predicted    : [1, 1, 1]
+Ground Truth : [1, 1, 1]
+Evaluation until this subject:
+best UF1: 0.8273 | best UAR: 0.8315
+Subject: sub15
+train
+Best Predicted    : [0, 1, 2]
+Ground Truth : [0, 1, 2]
+Evaluation until this subject:
+best UF1: 0.8291 | best UAR: 0.8333
+Subject: sub16
+train
+Best Predicted    : [0, 1, 1]
+Ground Truth : [0, 1, 1]
+Evaluation until this subject:
+best UF1: 0.8307 | best UAR: 0.835
+Subject: sub17
+train
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 1, 2]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]
+Evaluation until this subject:
+best UF1: 0.8361 | best UAR: 0.8411
+Subject: sub19
+train
+Best Predicted    : [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]
+Ground Truth : [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]
+Evaluation until this subject:
+best UF1: 0.8425 | best UAR: 0.8471
+Subject: sub20
+train
+Evaluation until this subject:
+best UF1: 0.8428 | best UAR: 0.8473
+Subject: sub21
+train
+Best Predicted    : [0]
+Ground Truth : [0]
+Evaluation until this subject:
+best UF1: 0.8429 | best UAR: 0.8475
+Subject: sub22
+train
+Best Predicted    : [0, 0]
+Ground Truth : [0, 0]
+Evaluation until this subject:
+best UF1: 0.8432 | best UAR: 0.8478
+Subject: sub23
+train
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 1]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 1]
+Evaluation until this subject:
+best UF1: 0.8447 | best UAR: 0.8493
+Subject: sub24
+train
+Best Predicted    : [0, 0, 2]
+Ground Truth : [0, 0, 2]
+Evaluation until this subject:
+best UF1: 0.8457 | best UAR: 0.8503
+Subject: sub25
+train
+Best Predicted    : [0, 0, 0, 2, 2]
+Ground Truth : [0, 0, 0, 2, 2]
+Evaluation until this subject: 
+best UF1: 0.8476 | best UAR: 0.8519
+Subject: sub26
+train
+Best Predicted    : [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+Ground Truth : [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+Evaluation until this subject: 
+best UF1: 0.8497 | best UAR: 0.8542
+Final Evaluation: 
+(442,)
+Total Time Taken: 90114.79653978348
+{'006': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2]}, '007': {'pred': [0, 1, 1, 1, 1, 1, 1, 1], 'truth': [0, 1, 1, 1, 1, 1, 2, 2]}, '009': {'pred': [0, 0, 0, 1
+], 'truth': [0, 0, 0, 2]}, '010': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, '011': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+0, 0, 1, 1, 1, 1, 1, 1, 1]}, '012': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, '013': {'pred': [0, 0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0, 0]}, '014': {'pred': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1], 'truth': [0
+, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, '015': {'pred': [2, 0, 2], 'truth': [0, 0, 2]}, '016': {'pred': [0, 0, 1, 2, 2], 'truth': [0, 0, 1, 2, 2]}, '017': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 2]}, '018': {'
+pred': [0, 0, 2], 'truth': [0, 0, 2]}, '019': {'pred': [1], 'truth': [1]}, '020': {'pred': [0, 0, 1, 2], 'truth': [0, 0, 1, 1]}, '021': {'pred': [0, 0], 'truth': [0, 0]}, '022': {'pred': [0, 0, 0, 1, 1]
+, 'truth': [0, 0, 0, 1, 1]}, '023': {'pred': [0], 'truth': [0]}, '024': {'pred': [0], 'truth': [0]}, '026': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0]}, '028': {'pred': [
+0, 2, 2], 'truth': [0, 2, 2]}, '030': {'pred': [0, 0, 0], 'truth': [0, 0, 0]}, '031': {'pred': [0], 'truth': [0]}, '032': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, '033': {'pred': [0, 0, 0, 0, 2], 
+'truth': [0, 0, 0, 0, 1]}, '034': {'pred': [0, 0, 0], 'truth': [0, 0, 0]}, '035': {'pred': [0, 0, 0, 0, 0, 0, 0, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 2]}, '036': {'pred': [0], 'truth': [0]}, '037': {'pred
+': [0], 'truth': [0]}, 's01': {'pred': [0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 1, 1, 2]}, 's02': {'pred': [1, 2, 2, 2, 2, 2], 'truth': [1, 2, 2, 2, 2, 2]}, 's03': {'pred': [1, 0, 2, 0, 0, 0, 0, 2, 1, 1, 
+0, 0, 0, 0, 2, 2, 1, 1, 2, 2, 0, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 2, 2, 0, 1, 2, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2,
+ 2, 2, 2, 2]}, 's04': {'pred': [0, 2, 2, 0, 0, 0, 2, 0, 0, 0, 2, 2, 0, 2, 2, 2, 2, 0, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2]}, 's05': {'pred': [0, 0], 'truth': [0, 2]}, '
+s06': {'pred': [0, 0, 2, 0], 'truth': [0, 0, 2, 2]}, 's08': {'pred': [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]}, 's09': {'pred': [0, 2, 2, 2], 'truth': [1
+, 2, 2, 2]}, 's11': {'pred': [0, 0, 0, 1, 1, 1, 2], 'truth': [0, 0, 0, 1, 1, 1, 2]}, 's12': {'pred': [1, 1, 1, 1, 1, 1, 1, 1, 2], 'truth': [1, 1, 1, 1, 1, 1, 1, 1, 2]}, 's13': {'pred': [1, 1, 1, 1, 1, 1
+, 1, 1, 1, 1], 'truth': [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}, 's14': {'pred': [0, 0, 0, 1, 0, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 2, 2, 2, 2, 2]}, 's15': {'pred': [0, 0, 0, 2], 'truth': [0, 1, 2, 2]}, '
+s18': {'pred': [0, 0, 2, 2, 2, 2, 2], 'truth': [0, 0, 2, 2, 2, 2, 2]}, 's19': {'pred': [1, 2], 'truth': [1, 2]}, 's20': {'pred': [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 2, 0, 2, 2], 'trut
+h': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub01': {'pred': [0, 0, 1], 'truth': [0, 0, 1]}, 'sub02': {'pred': [0, 0, 0, 0, 0, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 2, 2
+, 2]}, 'sub03': {'pred': [0, 0, 0, 0, 2], 'truth': [0, 0, 0, 0, 2]}, 'sub04': {'pred': [0, 0], 'truth': [0, 0]}, 'sub05': {'pred': [1, 2, 2, 2, 2, 2], 'truth': [1, 2, 2, 2, 2, 2]}, 'sub06': {'pred': [0,
+ 1, 2, 2], 'truth': [0, 1, 2, 2]}, 'sub07': {'pred': [0, 0, 0, 0, 0], 'truth': [0, 0, 0, 0, 0]}, 'sub08': {'pred': [0], 'truth': [0]}, 'sub09': {'pred': [0, 0, 0, 0, 0, 1, 1, 1, 0, 1], 'truth': [0, 0, 0
+, 0, 0, 1, 1, 1, 1, 1]}, 'sub11': {'pred': [0, 0, 0, 0], 'truth': [0, 0, 0, 0]}, 'sub12': {'pred': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2], 'truth': [0, 0, 0, 0, 0, 1, 1, 2, 2, 2, 2]}, 'sub13': {'pred': [1, 1
+], 'truth': [1, 1]}, 'sub14': {'pred': [1, 1, 1], 'truth': [1, 1, 1]}, 'sub15': {'pred': [0, 1, 2], 'truth': [0, 1, 2]}, 'sub16': {'pred': [0, 1, 1], 'truth': [0, 1, 1]}, 'sub17': {'pred': [0, 0, 0, 0, 
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 2, 1, 2], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2]}, 'sub19': {'pred
+': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2], 'truth': [0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]}, 'sub20': {'pred': [0, 0], 'truth': [0, 0]}, 'sub21': {'pred': [0], 'truth': [0]}, 'sub22': {'pred': [0, 0], 'truth': [0
+, 0]}, 'sub23': {'pred': [0, 0, 0, 0, 0, 0, 0, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 1]}, 'sub24': {'pred': [0, 0, 2], 'truth': [0, 0, 2]}, 'sub25': {'pred': [0, 0, 0, 2, 2], 'truth': [0, 0, 0, 2, 2]}, 'sub26': {'pred': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1], 'truth': [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}}

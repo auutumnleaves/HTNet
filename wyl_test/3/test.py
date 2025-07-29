@@ -1,0 +1,5 @@
+print(round(123.45))
+print(round(123.45, 0))
+print(round(123.45, -1))
+print(round(123.45, -2))
+print(round(123.45, -3))
